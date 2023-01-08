@@ -34,7 +34,7 @@ function renderLicenseSection(license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  const tocItems = answers.tableOfContents.split(',').map((item) => item.trim());
+  const tocItems = data.tableOfContents.split(',').map((item) => item.trim());
   const tocMarkdown = tocItems.map((item) => {
     const link = item;
     return `* [${item}](#${link})`;
