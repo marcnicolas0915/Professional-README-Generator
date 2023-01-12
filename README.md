@@ -12,3 +12,7 @@ Begin the series of questions by typing "node index.js" at the terminal
 
 ## Sample README.md 
 The sample README is made as shown in the demo video, and for the purpose of the project was moved into the "utils" folder.
+
+
+## Demo
+![Untitled_ Jan 11, 2023 7_34 PM](https://user-images.githubusercontent.com/117967802/211948840-ae08ac32-749c-48bc-ac7e-d838dd35326e.gif)
